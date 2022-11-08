@@ -12,3 +12,5 @@ For each sector,  one or more demands for energy are defined exogenously. Severa
 A Zenodo repository contains the techno-economic parameters used in the Kenya-CLEWS model, and these can be accessed in [Kenya_Clews_data](https://zenodo.org/record/7303625#.Y2oqkHbMKHs). These parameters include cost and efficiencies for cooking technologies and charcoal production. Other historical data has been used to derive cultivated areas and the production of specific crops. This model version includes the cooking sector and five crops. Crops included in this model are wheat, maize, barley, tea, and coffee. 
 
 The folder  [model](https://github.com/robertodawid/Kenya_Clews/tree/main/model), contains the instructions needed to read, run and print the results for the Kenya_Clews model.
+
+Citing this work: [![DOI](https://zenodo.org/badge/563298771.svg)](https://zenodo.org/badge/latestdoi/563298771)
